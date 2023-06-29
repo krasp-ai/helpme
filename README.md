@@ -5,6 +5,17 @@
 # helpme
 Understand (or grasp) how LLMs can help you for your job.
 
+## Abstract
+
+The integration of large language models (LLMs) in your work can be challenging, especially if none of your peers use LLMs. Looking at conventional LLM benchmarks provides you with very little useful information, as likely none of the tasks you do on a daily basis are directly assessed. In this project, we propose a novel way of creating custom benchmarks that evaluate how LLMs can help you in your specific job. Whilst these benchmarks cannot provide exhaustive proof if LLMs can help you well on an explicit task, they can provide a first starting point for making use of the capabilities of LLMs in your work.
+
+## Project outputs
+
+- GitHub repo
+- Python package
+- Paper
+- User App
+
 ## Example usage
 
 #### 1. User input: job title and description (in **bold**)
@@ -39,6 +50,12 @@ Understand (or grasp) how LLMs can help you for your job.
 #### 3. Visualisation
 
 Using [Krasp.ai](https://krasp.ai/) we can then run and visualise these challenges so that the user has a better idea where LLMs can help them in their job – and where they fail to help.
+
+## Tasks
+
+- Literature review: where do we want to position our paper? In the automatic LLM evaluation space, interpretability, or ...?
+- Langchain generation code: given a job title and description, create a list of tasks and corresponding challenges?
+- User interface: built into Krasp.ai or via Gradio
 
 ## License
 
