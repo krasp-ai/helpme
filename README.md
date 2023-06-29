@@ -51,6 +51,11 @@ The integration of large language models (LLMs) in your work can be challenging,
 
 Using [Krasp.ai](https://krasp.ai/) we can then run and visualise these challenges so that the user has a better idea where LLMs can help them in their job – and where they fail to help.
 
+## User interface mock-up
+
+![userinterface_demo](https://github.com/krasp-ai/helpme/assets/75615911/82efd45f-27d2-4eae-bc6e-9cfa9bd4fb1d)
+
+
 ## Tasks
 
 - Literature review: where do we want to position our paper? In the automatic LLM evaluation space, interpretability, or ...?
