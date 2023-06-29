@@ -7,7 +7,7 @@ Understand (or grasp) how LLMs can help you for your job.
 
 ## Abstract
 
-The integration of large language models (LLMs) in your work can be challenging, especially if none of your peers use LLMs. Looking at conventional LLM benchmarks provides you with very little useful information, as likely none of the tasks you do on a daily basis are directly assessed. In this project, we propose a novel way of creating custom benchmarks that evaluate how LLMs can help you in your specific job. Whilst these benchmarks cannot provide exhaustive proof if LLMs can help you well on an explicit task, they can provide a first starting point for making use of the capabilities of LLMs in your work.
+The integration of large language models (LLMs) in your work can be challenging, especially if none of your peers use LLMs. Looking at conventional LLM benchmarks provides you with very little useful information, as likely none of the tasks you do on a daily basis are directly assessed. In this project, we propose a novel way of creating custom benchmarks that evaluate how LLMs can help you in your specific job. Whilst these benchmarks cannot provide exhaustive proof, if LLMs can help you well on an explicit task, they can provide a first starting point for making use of the capabilities of LLMs in your work. Our approach uses LLMs to automatically generate the custom benchmarks for each user's speific requirements. We share an open-source implementation and provide a publicly accessible user interface to try out our method.
 
 ## Project outputs
 
