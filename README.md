@@ -56,6 +56,7 @@ Using [Krasp.ai](https://krasp.ai/) we can then run and visualise these challeng
 - Literature review: where do we want to position our paper? In the automatic LLM evaluation space, interpretability, or ...?
 - Langchain generation code: given a job title and description, create a list of tasks and corresponding challenges?
 - User interface: built into Krasp.ai or via Gradio
+- Create examples of good benchmarks: define what a useful benchmark would be.
 
 ## License
 
