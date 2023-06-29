@@ -39,3 +39,7 @@ Understand (or grasp) how LLMs can help you for your job.
 #### 3. Visualisation
 
 Using [Krasp.ai](https://krasp.ai/) we can then run and visualise these challenges so that the user has a better idea where LLMs can help them in their job – and where they fail to help.
+
+## License
+
+All of the code in this repository is licensed under [Apache license v2.0](https://github.com/krasp-ai/helpme/blob/main/LICENSE), copyright 2023 Punaltz Ltd.
